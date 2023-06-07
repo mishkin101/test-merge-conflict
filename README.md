@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
 ## NAMES
-Add your name totest
+Add your name to test

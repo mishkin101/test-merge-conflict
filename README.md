@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
 ## NAMES
-Add your name to michelle.
+Add your name to changed

@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
-##NAMES
+## NAMES
 Add your name to line 5.

@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
 ## NAMES
-Michelle 2
+Edited to today

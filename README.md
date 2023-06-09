@@ -1,4 +1,9 @@
 # MERGE CONFLICT TEST
+
+Im Ali, & I'm Jaszmine, aloha
+
+this works
+
 ## NAMES
 victor
 Noel Negron III
@@ -17,3 +22,4 @@ def fib(n)
 ```
 
 put here
+

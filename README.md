@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
 ## NAMES
-put here test
+put here

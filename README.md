@@ -1,3 +1,3 @@
 # MERGE CONFLICT TEST
-Im Ali, & I'm Jaszmine
+Im Ali, & I'm Jaszmine, aloha
 
